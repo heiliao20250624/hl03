@@ -63,4 +63,4 @@ Telegram频道传送门：精选各类优质Telegram频道入口，涵盖资讯�
 《黑料大事记》通过详尽的时间轴与事件回顾，记录每一次爆料的爆发点与演变过程，让大众轻松回顾往年经典大瓜。它不仅还原事件的真实脉络，也揭示了网络舆情如何发酵、操控与反转，为公众认知信息传播本质提供了重要窗口，也是研究网络生态与娱乐文化的重要素材平台。
 
 
-[Canonical link]( https://github.com/heiliao20250624/hl02 ）
+[Canonical link]( https://github.com/heiliao20250624/hl03 ）
